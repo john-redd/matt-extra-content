@@ -1,4 +1,4 @@
-# matt-extra-content
+# Extra Study Content
 
 ## Redux
 - [Redux Crash Course](https://youtu.be/93p3LxR9xfM)
